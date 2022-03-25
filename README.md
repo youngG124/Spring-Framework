@@ -6,3 +6,5 @@ use (
   )
 
 python api 부분에 챗봇 모델 부분 구현 예정
+
+pc 이동하면서 같은 서비스를 spring boot로 바꿀 예정...
